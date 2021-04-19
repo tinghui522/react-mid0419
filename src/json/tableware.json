@@ -1,0 +1,101 @@
+[
+  {
+    "id": "IuFGYl",
+    "category": "Citrus",
+    "name": "Lime Basil & Mandarin Cologne",
+    "sku": "sku_313356",
+    "price": 142,
+    "image": "https://github.com/tinghui522/react-mid/blob/main/src/img/Citrus-Lime%20Basil%20&%20Mandarin%20Cologne.png?raw=true",
+    "description": "",
+    "currency": "USD",
+    "countInStock": 6 
+  },
+  {
+    "id": "6Bh3pq",
+    "category": "Citrus",
+    "name": "Basil & Neroli Cologne",
+    "sku": "sku_119140",
+    "price": 142,
+    "image": "hhttps://github.com/tinghui522/react-mid/blob/main/src/img/Citrus-Basil%20&%20Neroli%20Cologne.png?raw=true",
+    "description": "",
+    "currency": "USD",
+    "countInStock": 7 
+  },
+  {
+    "id": "VfcByl",
+    "category": "Woody",
+    "name": "Dark Amber & Ginger Lily Cologne Intense",
+    "sku": "sku_622147",
+    "price": 195,
+    "image": "https://github.com/tinghui522/react-mid/blob/main/src/img/Woody-Dark%20Amber.png?raw=true",
+    "description": "",
+    "currency": "USD",
+    "countInStock": 4 
+  },
+  {
+    "id": "1yF2Ib",
+    "category": "Fruity",
+    "name": "English Pear & Freesia Cologne",
+    "sku": "sku_125983",
+    "price": 144,
+    "image": "https://github.com/tinghui522/react-mid/blob/main/src/img/Fruity-English%20Pear.png?raw=true",
+    "description": "",
+    "currency": "USD",
+    "countInStock": 5
+  },
+  {
+    "id": "IuFGYl",
+    "category": "Fruity",
+    "name": "Nectarine Blossom & Honey Cologne With Daisy Leaf Lace Design",
+    "sku": "sku_313356",
+    "price": 148,
+    "image": "https://github.com/tinghui522/react-mid/blob/main/src/img/Fruity-Nectarine%20Blossom.png?raw=true",
+    "description": "",
+    "currency": "USD",
+    "countInStock": 6 
+  },
+  {
+    "id": "6Bh3pq",
+    "category": "Spicy",
+    "name": "Nutmeg & Ginger Cologne",
+    "sku": "sku_119140",
+    "price": 142,
+    "image": "https://github.com/tinghui522/react-mid/blob/main/src/img/Spicy-Nutmeg.png?raw=true",
+    "description": "",
+    "currency": "USD",
+    "countInStock": 7 
+  },
+  {
+    "id": "VfcByl",
+    "category": "Floral",
+    "name": "Gardenia & Oud Absolu",
+    "sku": "sku_622147",
+    "price": 295,
+    "image": "https://github.com/tinghui522/react-mid/blob/main/src/img/Floral-Gardenia.png?raw=true",
+    "description": "",
+    "currency": "USD",
+    "countInStock": 4 
+  },
+  {
+    "id": "1yF2Ib",
+    "category": "Floral",
+    "name": "Violet & Amber Absolu",
+    "sku": "sku_125983",
+    "price": 295,
+    "image": "https://github.com/tinghui522/react-mid/blob/main/src/img/Floral-Violet.png?raw=true",
+    "description": "",
+    "currency": "USD",
+    "countInStock": 5
+  },
+  {
+    "id": "VfcByl",
+    "category": "Light Floral",
+    "name": "Wild Bluebell Cologne Duo",
+    "sku": "sku_622147",
+    "price": 142,
+    "image": "https://github.com/tinghui522/react-mid/blob/main/src/img/Light%20Floral-Wild%20Bluebell%20Cologne%20Duo.png?raw=true",
+    "description": "",
+    "currency": "USD",
+    "countInStock": 4 
+  }
+]
